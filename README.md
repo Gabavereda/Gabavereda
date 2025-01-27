@@ -27,6 +27,12 @@ Olá! Sou o Glauber, um apaixonado por desenvolvimento web. Recentemente conclu�
   **Java-swing/jdbc:** 
 * Projeto De cadastro de Filmes(CRUD,JDBC)<br>
 :link:[gitHub](https://github.com/Gabavereda/ATV_2_UC10_Aluno_Glauber_CenaFlix_JDBC)
+* Projeto De um leilão simples onde Cadastra e marca como vendidos os produtos(CRUD,JDBC)<br>
+:link:[gitHub](https://github.com/Gabavereda/LeiloesTDSat)
+* Um mini sistema de hospital  (CRUD,JDBC)<br>
+  Além de todo o CRUD e conexão foi realizdo teste através da propria ferramenta do java o Junit <br>
+  Plano de testes foi elaborado para trabalhar com um bug tracker Jira <br>
+:link:[gitHub](https://github.com/Gabavereda/SistemaHospitalar_MOD3_UC11_ATV1)
 <hr>
 
   **Java-swing/maven:** 
