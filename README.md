@@ -38,12 +38,29 @@ Ol√°! Sou o Glauber, um apaixonado por desenvolvimento web. Recentemente conclu√
   **Java-swing/maven:** 
 * Projeto De cadastro de Filmes(CRUD,Maven,Hibernate)<br>
 :link:[gitHub](https://github.com/Gabavereda/Cenaflix)
-        
+    <h2>    
+:hammer: :hammer: 
+<br>
+working
+
+uploading repo
 
 
+:hammer: :hammer:
+</h2>
 <hr>
 
   **Java-Spring:** 
+      <h2>    
+:hammer: :hammer: 
+<br>
+working
+
+uploading repo
+
+
+:hammer: :hammer:
+</h2>
 * **Projeto1**
 * **Projeto1**
 *  **Projeto1**
