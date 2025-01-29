@@ -11,7 +11,7 @@ Olá! Sou o Glauber, apaixonado por tecnologia e desenvolvimento web. Recentemen
 
 ---
 
-## **Principais Projetos**  
+## ** Projetos relevantes desenvolvidos no curso**  
 
 ### **Java (No Database)**  
 - **Sistema de Pizzaria:** Sistema interno para gerenciar pizzas, bebidas, cardápio e pedidos.  
@@ -48,8 +48,21 @@ Olá! Sou o Glauber, apaixonado por tecnologia e desenvolvimento web. Recentemen
 
 ---
 
+### **Html,css,Js**  
+- ** Página web que simula um sistema de pagamento via pix. <br>
+   🔗 [GitHub](https://github.com/Gabavereda/metodosPagamentos)
+  - ** Página web que simula um site de hospedagem com agendamentos <br>
+   🔗 [GitHub](https://github.com/Gabavereda/reservaHospedagem)   
+
+---
+
 ### **Java (Spring Boot)**  
-🚧 **Trabalhando em novos repositórios.** Atualizações em breve! 🚀  
+- ** Projeto para lidar com consumo de API,CRUD,MVC,LOMBOK  <br>
+thymeleaf para o html , algumas validações em Js e bootstrap
+   🔗 [GitHub](https://github.com/Gabavereda/ReviewFilmes-Revisado)
+  - ** Página web que simula um site de hospedagem com agendamentos <br>
+   🔗 [GitHub](https://github.com/Gabavereda/reservaHospedagem)  
+
 
 ---
 
