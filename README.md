@@ -13,20 +13,7 @@ Olá! Sou o Glauber, apaixonado por tecnologia e desenvolvimento web. Recentemen
 
 ## ** Projetos relevantes desenvolvidos no curso**  
 
-### **Java (No Database)**  
-- **Sistema de Pizzaria:** Sistema interno para gerenciar pizzas, bebidas, cardápio e pedidos.  
-  🔗 [GitHub](https://github.com/Gabavereda/ATIVIDADE-MOD2-UC6-CONSOLE-PIZZARIA)  
 
-- **Recomendações de Exercícios:** Sistema que recomenda exercícios físicos com base em categorias selecionadas.  
-  🔗 [GitHub](https://github.com/Gabavereda/ATV3_UC7_MOD2)  
-
-- **Simulação de Desconto:** Interface que permite aplicar desconto em valores acima de R$500.  
-  🔗 [GitHub](https://github.com/Gabavereda/ATV1_UC9_MODULO2)  
-
-- **Registro de Pressão Arterial:** Aplicação que registra aferições de pressão arterial e exporta os dados em **CSV**.  
-  🔗 [GitHub](https://github.com/Gabavereda/Atividade4Csv)  
-
----
 
 ### **Java (Swing/JDBC)**  
 - **Cenaflix:** Sistema de cadastro de filmes com CRUD utilizando **JDBC**.  
@@ -63,6 +50,21 @@ thymeleaf para o html , algumas validações em Js e bootstrap
   - ** Página web que simula um site de hospedagem com agendamentos <br>
    🔗 [GitHub](https://github.com/Gabavereda/reservaHospedagem)  
 
+
+---
+
+### **Java (No Database)**  
+- **Sistema de Pizzaria:** Sistema interno para gerenciar pizzas, bebidas, cardápio e pedidos.  
+  🔗 [GitHub](https://github.com/Gabavereda/ATIVIDADE-MOD2-UC6-CONSOLE-PIZZARIA)  
+
+- **Recomendações de Exercícios:** Sistema que recomenda exercícios físicos com base em categorias selecionadas.  
+  🔗 [GitHub](https://github.com/Gabavereda/ATV3_UC7_MOD2)  
+
+- **Simulação de Desconto:** Interface que permite aplicar desconto em valores acima de R$500.  
+  🔗 [GitHub](https://github.com/Gabavereda/ATV1_UC9_MODULO2)  
+
+- **Registro de Pressão Arterial:** Aplicação que registra aferições de pressão arterial e exporta os dados em **CSV**.  
+  🔗 [GitHub](https://github.com/Gabavereda/Atividade4Csv)  
 
 ---
 
