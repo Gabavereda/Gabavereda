@@ -11,6 +11,15 @@ Olá! Sou o Glauber, apaixonado por tecnologia e desenvolvimento web. Recentemen
 
 ---
 
+![Gabavereda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabavereda&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabavereda&layout=compact&theme=dark)
+
+
+
+
+
+
 ## ** Projetos relevantes desenvolvidos no curso**  
 
 
