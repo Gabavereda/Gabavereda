@@ -42,9 +42,12 @@ Atualmente, estou buscando minha primeira oportunidade como desenvolvedor back-e
 
 ### 🌍 **Onde me encontrar**  
 
-📧 **E-mail:** gabavereda@gmail.com  
-🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/glauber-vereda-073159273/)  
-🔗 **GitHub:** [Gabavereda](https://github.com/Gabavereda)  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logoColor=07E76A8)](https://www.linkedin.com/in/glauber-vereda-073159273/)
+[![Email](https://img.shields.io/badge/Email-FFF?style=for-the-badge&logoColor=07E76A8)](mailto:gabavereda@gmail.com)
+
+
+
 
 ---
 
