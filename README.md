@@ -21,7 +21,7 @@ Atualmente, estou buscando minha primeira oportunidade como desenvolvedor back-e
 📌 **Mercado da Vila** (Spring Boot, MySQL, Thymeleaf)  
 🔹 Aplicação web para cadastro e venda de produtos  
 🔹 **Destaques:** CRUD completo, segurança de dados, filtros avançados  
-🔹 [🔗 Repositório](https://github.com/Gabavereda)  
+🔹 [🔗 Repositório](https://github.com/Gabavereda/projetoIntegrador)  
 
 📌 **Review de Filmes** (Spring Boot, API, Thymeleaf)  
 🔹 Consumo de API de filmes e CRUD com MVC  
